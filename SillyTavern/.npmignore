@@ -1,8 +1,0 @@
-node_modules/
-/uploads/
-.DS_Store
-/thumbnails
-secrets.json
-/dist
-poe_device.json
-/backups/
